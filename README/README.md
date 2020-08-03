@@ -6,7 +6,7 @@
 
 Here's a quick gif of the final result. Just wanted to confirm all the links are working.
 
-![Code Refactor Challenge Final Result](Horiseon.gif)
+![Code Refactor Challenge Final Result](..\Develop\assets\images\Horiseon.gif)
 
 ## What files are included in this repo:
 
@@ -19,7 +19,7 @@ Here's a quick gif of the final result. Just wanted to confirm all the links are
    
 ---
 
-### CSS SECTIONS
+### CSS Sections
 
 * /* 1. GLOBAL SETTINGS */
 * /* 2. BODY */
