@@ -56,4 +56,4 @@ Row 41, 52, 61, 76, 84, 92	included alt tags with seo-friendly descriptions
 
 ---
 
-The link the live page is listed here:[Link](http://a.com).
+The link the live page is listed here:[Link](https://shanghaifierce.github.io/Code-Refactor-Challenge-1/).
